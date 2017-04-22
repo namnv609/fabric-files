@@ -2,6 +2,7 @@
 #   - Install RVM
 #   - Install Ruby
 #   - Install Bundler
+#   - Install Rails
 
 from fabric.api import *
 
