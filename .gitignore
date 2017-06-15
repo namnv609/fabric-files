@@ -3,5 +3,5 @@ include/
 lib/
 local/
 pip-selfcheck.json
-voz_images_downloader.egg-info/
+fabric_files.egg-info/
 *.pyc
